@@ -1,6 +1,6 @@
 Random quote generator app creates quotes randlomly through external API on button click
 
-In this app uses React on the front end and making requests to Advice Slip JSON API
+This app uses React on the front end and making requests to Advice Slip JSON API
 
 Advice Slip JSON API: https://api.adviceslip.com
 
@@ -19,4 +19,5 @@ What can learn from this project:
 2. State 
 3. CompountDidMount() method
 4. Axios
+5. Fetching Data
 
